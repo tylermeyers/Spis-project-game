@@ -1,0 +1,1 @@
+if self.rect.left>wall1.rect.right or self.rect.left>wall3.right or self.rect.left> wall5.rect.right or self.rect.left> wall8.rect.right or self.rect.left>wall14.rect.right :
